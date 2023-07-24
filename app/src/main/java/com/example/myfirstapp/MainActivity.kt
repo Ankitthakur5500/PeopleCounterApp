@@ -2,6 +2,7 @@ package com.example.myfirstapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
@@ -19,5 +20,6 @@ class MainActivity : AppCompatActivity() {
             txt2.text=count.toString()
             Toast.makeText(this@MainActivity,"I have been Clicked $count times",Toast.LENGTH_SHORT).show()
         }
+        Log.d("Hello","MainActivity")
     }
 }
