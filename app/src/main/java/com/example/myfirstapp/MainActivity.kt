@@ -21,5 +21,14 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this@MainActivity,"I have been Clicked $count times",Toast.LENGTH_SHORT).show()
         }
         Log.d("Hello","MainActivity")
+        //Variables and Datatypes
+        var str:String = "Android MasterClass"
+        var float:Float = 13.37F
+        var double:Double = 3.14159265358979
+        var int1:Int = 25
+        var int2:Int = 2020
+        var int3:Long = 18881234567
+        var boolean:Boolean = true
+        var char:Char = 'a'
     }
 }
