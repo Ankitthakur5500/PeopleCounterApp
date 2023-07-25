@@ -42,6 +42,20 @@ class MainActivity : AppCompatActivity() {
 //        }else{
 //           println("You Can Marry")
 //        }
+        //task 3
+//        var age = 21
+//        when(age){
+//            in 21..100 -> println("AboveAge")
+//            in 18..20 -> println("justMature")
+//            16,17 -> println("You can drive now")
+//            else -> println("you are to young")
+//        }
+        //task4
+//        var number:Any = 13.33
+//        when(number){
+//            is String -> print("$number is a String")
+//            else-> println("$number is a Do")
+//        }
     }
 }
 
