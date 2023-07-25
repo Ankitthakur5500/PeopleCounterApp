@@ -22,13 +22,26 @@ class MainActivity : AppCompatActivity() {
         }
         Log.d("Hello","MainActivity")
         //Variables and Datatypes
-        var str:String = "Android MasterClass"
-        var float:Float = 13.37F
-        var double:Double = 3.14159265358979
-        var int1:Int = 25
-        var int2:Int = 2020
-        var int3:Long = 18881234567
-        var boolean:Boolean = true
-        var char:Char = 'a'
+        //task1
+//        var str:String = "Android MasterClass"
+//        var float:Float = 13.37F
+//        var double:Double = 3.14159265358979
+//        var int1:Int = 25
+//        var int2:Int = 2020
+//        var int3:Long = 18881234567
+//        var boolean:Boolean = true
+//        var char:Char = 'a'
+        //task2
+//        val age = 19
+//        if(age>=16&&age<=18){
+//            println("You can Drive")
+//        }else if(age>18&&age<=21){
+//            println("You can Vote")
+//        }else if(age>21&&age<=25){
+//            println("You can Drink")
+//        }else{
+//           println("You Can Marry")
+//        }
     }
 }
+
