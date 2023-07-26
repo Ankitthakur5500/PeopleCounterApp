@@ -56,6 +56,14 @@ class MainActivity : AppCompatActivity() {
 //            is String -> print("$number is a String")
 //            else-> println("$number is a Do")
 //        }
+        //task5
+//        var number = 100
+//        while(number>=0){
+//            if(number%2==0){
+//                Log.d("Hello",number.toString())
+//            }
+//            number--
+//        }
     }
 }
 
