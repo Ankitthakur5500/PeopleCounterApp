@@ -64,6 +64,23 @@ class MainActivity : AppCompatActivity() {
 //            }
 //            number--
 //        }
+        //task6
+//        for(num in 0..10000){
+//            if(num==9001){
+//                print("Hello"+"IT'S OVER 9000!!!")
+//            }
+//        }
+        //task7
+//        var humidityLevel = 80;
+//        var humidity = "humid"
+//        while(humidity=="humid"){
+//            humidityLevel-=5
+//            Log.d("Hel","Decreased")
+//            if(humidityLevel==60){
+//                Log.d("Hello","Its comfy now")
+//                humidity=="Comfy"
+//            }
+//        }
     }
 }
 
