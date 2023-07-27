@@ -81,6 +81,7 @@ class MainActivity : AppCompatActivity() {
 //                humidity=="Comfy"
 //            }
 //        }
+        //Hello How are you Doing
     }
 }
 
